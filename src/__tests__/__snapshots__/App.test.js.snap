@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> Snapshot app component 1`] = `
+<DocumentFragment>
+  <header>
+    <ul
+      class="sc-gsTCUz lgfLoM card collection"
+      data-testid="menu-container"
+    >
+      <li
+        aria-selected="true"
+        class="collection-item active"
+        role="tab"
+      >
+        <button
+          class="sc-bdfBwQ hGbOiT"
+          type="button"
+        >
+          Vivaair
+        </button>
+      </li>
+      <li
+        aria-selected="false"
+        class="collection-item "
+        role="tab"
+      >
+        <button
+          class="sc-bdfBwQ hGbOiT"
+          type="button"
+        >
+          Avianca
+        </button>
+      </li>
+    </ul>
+    <section
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col s12"
+        >
+          <h4>
+            Hola, bienvenido, sabemos que quieres viajar en un Vivaair
+          </h4>
+        </div>
+      </div>
+    </section>
+  </header>
+  <main>
+    <section
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col s12 l6 offset-l3"
+        >
+          <form
+            class="card-panel"
+          >
+            <div
+              class="input-field"
+            >
+              <input
+                class="validate"
+                id="name"
+                name="name"
+                type="text"
+              />
+              <label
+                for="last_name"
+              >
+                Nombre
+              </label>
+            </div>
+            <div
+              class="input-field"
+            >
+              <input
+                class="validate"
+                id="email"
+                name="email"
+                type="email"
+              />
+              <label
+                for="email"
+              >
+                Email
+              </label>
+            </div>
+            <div
+              class="input-field"
+            >
+              <input
+                class="validate"
+                id="cellphone"
+                name="cellphone"
+                type="text"
+              />
+              <label
+                for="cellphone"
+              >
+                Celular
+              </label>
+            </div>
+            <div
+              class="input-field"
+            >
+              <input
+                class="validate"
+                id="age"
+                name="age"
+                type="number"
+              />
+              <label
+                for="age"
+              >
+                Edad
+              </label>
+            </div>
+            <button
+              class="waves-effect waves-light btn"
+              type="submit"
+            >
+              Enviar
+            </button>
+          </form>
+        </div>
+      </div>
+    </section>
+    <div
+      class="modal"
+      id="modal"
+    >
+      <div>
+        <div
+          class="modal-content"
+        >
+          <h4>
+            Grandioso!
+          </h4>
+          <p>
+            Tu información fue enviada con éxito, estaremos en contacto contigo
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+</DocumentFragment>
+`;

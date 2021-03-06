@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Menu /> Snapshot Menu component 1`] = `
+<DocumentFragment>
+  <ul
+    class="sc-gsTCUz lgfLoM card collection"
+    data-testid="menu-container"
+  >
+    <li
+      aria-selected="true"
+      class="collection-item active"
+      role="tab"
+    >
+      <button
+        class="sc-bdfBwQ hGbOiT"
+        type="button"
+      >
+        Vivaair
+      </button>
+    </li>
+    <li
+      aria-selected="false"
+      class="collection-item "
+      role="tab"
+    >
+      <button
+        class="sc-bdfBwQ hGbOiT"
+        type="button"
+      >
+        Avianca
+      </button>
+    </li>
+  </ul>
+  <section
+    class="container"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col s12"
+      >
+        <h4>
+          Hola, bienvenido, sabemos que quieres viajar en un Vivaair
+        </h4>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;

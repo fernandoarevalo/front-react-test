@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MenuItem /> Snapshot MenuItem component 1`] = `
+<DocumentFragment>
+  <li
+    aria-selected="false"
+    class="collection-item "
+    role="tab"
+  >
+    <button
+      class="sc-bdfBwQ hGbOiT"
+      type="button"
+    >
+      Vivaair
+    </button>
+  </li>
+</DocumentFragment>
+`;

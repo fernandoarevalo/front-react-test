@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Modal /> Snapshot Modal component 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="modal-content"
+    >
+      <h4>
+        Grandioso!
+      </h4>
+      <p>
+        Tu información fue enviada con éxito, estaremos en contacto contigo
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
